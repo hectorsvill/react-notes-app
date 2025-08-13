@@ -21,9 +21,7 @@ npm run dev
 [http://localhost:5173/](http://localhost:5173/)
 
 ## Screenshots of App
-
-<div style="display: flex; gap: 20px;">
-  <img src=".app-image/image1.png" alt="Screenshot 1" width="300" />
-  <img src=".app-image/image2.png" alt="Screenshot 2" width="300" />
+<div style="display: flex; justify-content: center; gap: 20px;">
+  <img src=".app_images/react-notes-app-img2.png" alt="Screenshot 1" width="400" />
+  <img src=".app_images/react-notes-app-img1.png" alt="Screenshot 2" width="400" />
 </div>
-
